@@ -1,0 +1,6 @@
+storage/*
+!storage/.gitkeep
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
